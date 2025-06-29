@@ -1,2 +1,3 @@
 # chat_bot
-This contains multiple chat_bot projects that use GenAI to create Agents, uses RAG functionality .
+This is my basic chat bot interface using chainlit that retrives data from uploaded pdf document, and answers relevant question.
+this uses RAG, langchain framework, GROQ API key.
