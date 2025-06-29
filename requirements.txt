@@ -1,0 +1,11 @@
+chainlit 
+langchain
+pandas
+numpy
+matplotlib
+seaborn
+groq
+tiktoken
+pypdf
+chromadb
+python-dotenv
